@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestThread": {
+      "commandName": "Project",
+      "commandLineArgs": "\"ThreadSleepLoop\""
+    }
+  }
+}
